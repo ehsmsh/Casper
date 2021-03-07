@@ -32,8 +32,7 @@
         "postcss": "8.2.7",
         "postcss-color-mod-function": "3.0.3",
         "postcss-easy-import": "3.0.0",
-        "pump": "3.0.0",
-        "tailwindcss": "^2.0.3"
+        "pump": "3.0.0"
     },
     "browserslist": [
         "defaults"
