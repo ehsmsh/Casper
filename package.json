@@ -1,6 +1,6 @@
 {
-    "name": "chilai",
-    "description": "Chilai-beauty-salon website custom theme, based on casper",
+    "name": "casper-dev-theme",
+    "description": "ready to develop ghost theme based on casper",
     "version": "1.0.0",
     "license": "MIT",
     "scripts": {
